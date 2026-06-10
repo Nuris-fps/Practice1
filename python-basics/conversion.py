@@ -1,9 +1,9 @@
 x = 5.5
-x = int(x)
+ix = int(x)
 y = 5
-y = float(y)
-z = 5
-z = complex(z)
-print(x)
-print(y)    
-print(z)
+fy = float(y)
+z = 5j
+cz = complex(y)
+print(ix)
+print(fy)    
+print(cz)
